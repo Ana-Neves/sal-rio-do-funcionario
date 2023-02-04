@@ -2,6 +2,7 @@ void main(){
   //Entrada de dados
   var horatrabalhada = 100;
   var salarioporhora = 5.50;
+  var chapa = 25;
  
   
   
@@ -14,6 +15,6 @@ void main(){
   // Saída (show the results) 
   
   
-  print('salario por mes do funcionario é igual a $salariopormes');
+  print('o número do funcionário é $chapa e o salário por mes do funcionário é igual á $salariopormes');
  
 }
