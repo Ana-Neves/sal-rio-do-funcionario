@@ -1,0 +1,19 @@
+void main(){
+  //Entrada de dados
+  var horatrabalhada = 100;
+  var salarioporhora = 5.50;
+ 
+  
+  
+  
+  // Processamento
+ 
+  var salariopormes = horatrabalhada * salarioporhora;
+  
+  
+  // Saída (show the results) 
+  
+  
+  print('salario por mes do funcionario é igual a $salariopormes');
+ 
+}
